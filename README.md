@@ -1,6 +1,6 @@
 # Spark para InfoLEG
 
-Repositorio de código para el artículo de Medium: Procesando Datos con Spark (y IV) - Corriendo una aplicación con PySpark
+Repositorio de código para el artículo de Medium: [Procesando Datos con Spark (y IV) - Corriendo una aplicación con PySpark](https://medium.com/@crscardellino/procesando-datos-con-spark-y-iv-corriendo-una-aplicaci%C3%B3n-con-pyspark-5c26e828465d)
 
 ## Uso de la aplicación
 
