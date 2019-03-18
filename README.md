@@ -2,7 +2,7 @@
 
 Repositorio de código para el artículo de Medium: [Procesando Datos con Spark (y IV) - Corriendo una aplicación con PySpark](https://medium.com/@crscardellino/procesando-datos-con-spark-y-iv-corriendo-una-aplicaci%C3%B3n-con-pyspark-5c26e828465d)
 
-Nota: El archivo `infoleg.txt` sólo contiene 100 documentos del archivo completo de documentos que se encuentra en:
+**Nota:** El archivo `infoleg.txt` sólo contiene 100 documentos del archivo completo de documentos que se encuentra en:
 https://cs.famaf.unc.edu.ar/~ccardellino/divulgacion/infoleg.txt.bz2
 
 ## Uso de la aplicación
